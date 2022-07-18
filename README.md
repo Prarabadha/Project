@@ -1,2 +1,2 @@
 # Project
-I devloped this project using HTML,CSS&amp; JS
+ https://prarabadha.github.io/Project/
